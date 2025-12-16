@@ -1,14 +1,14 @@
 ### Hi there, I'm TungDV 👋
 🚀 **Fullstack Developer | Next.js & AI Enthusiast**
 
-Tôi là một lập trình viên đam mê xây dựng các ứng dụng web hiệu suất cao với công nghệ hiện đại.
+I am a passionate developer focused on building high-performance web applications using modern technologies.
 
-- 🔭 **I’m currently working on:** [TungDV Portfolio](https://tungdvdev.com)
-- 💼 **Experience:** Junior Fullstack Developer (Freelance)
-- 🌱 **Focus:** Building AI-Powered SaaS applications.
+- 🔭 **Current Project:** [TungDV Portfolio](https://tungdvdev.com)
+- 💼 **Looking for:** Junior Fullstack Developer opportunities
+- 🌱 **Focus:** AI-Powered SaaS & Automation
 
 ### 🛠 Tech Stack
-Dưới đây là các công nghệ tôi sử dụng thành thạo:
+My weapon of choice for building products:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,cloudflare,vercel,vscode,github" />
@@ -16,5 +16,5 @@ Dưới đây là các công nghệ tôi sử dụng thành thạo:
 
 <br/>
 
-### 📈 My GitHub Contributions
-*(Biểu đồ hoạt động thực tế bao gồm cả các dự án Private)*
+### 📈 GitHub Stats
+*(My coding activity includes private repositories)*
